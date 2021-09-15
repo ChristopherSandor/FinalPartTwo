@@ -1,0 +1,15 @@
+.Blueclass{
+  color: Blue;
+}
+.Blackclass{
+  color: black;
+}
+.backgroundimg {
+  background-image: url("../img/Background1.png");
+  background-repeat: no-repeat;
+    background-size:100%;
+}
+.smalltext{
+  color: grey;
+  font-size: 25px;
+}
